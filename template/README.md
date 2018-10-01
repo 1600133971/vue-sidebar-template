@@ -1,4 +1,4 @@
-# vue-sidebar-template
+# {{name}}
 
 ## Project setup
 ```
