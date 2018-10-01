@@ -3,25 +3,25 @@
     "name": {
       "type": "string",
       "required": true,
-      "message": "name",
+      "message": "Project name",
       "default": "vue-demo"
     },
     "version": {
       "type": "string",
       "required": true,
-      "message": "version",
+      "message": "Version",
       "default": "1.0.0"
     },
     "description": {
       "type": "string",
       "required": false,
-      "message": "description",
-      "default": ""
+      "message": "Project description",
+      "default": "A Vue.js project"
     },
     "author": {
       "type": "string",
       "required": false,
-      "message": "author",
+      "message": "Author",
       "default": ""
     }
   },
